@@ -16,8 +16,5 @@ Also im studying on my own:
 
 ![image](resources/fiubamap.png)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taielmolina01)](https://github.com/Taielmolina01/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taielmolina01&layout=donut)](https://github.com/Taielmolina01/github-readme-stats)
 
 
