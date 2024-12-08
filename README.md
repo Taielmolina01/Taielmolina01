@@ -2,11 +2,7 @@ Hi there! :wave:
 
 I'm Taiel, and I'm currently studying Software Engineering at FIUBA. I have approved 13/24 of mandatory subjects.
 
-Currently im taking the subjects of: 
-
-- Computer Organization.
-- Technology Based Companies.
-- IT project's development management.
+I'm looking forward to collaborating on open source projects, and have my first experiences working freelance.
 
 Also im studying on my own:
 
