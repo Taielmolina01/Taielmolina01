@@ -1,12 +1,12 @@
 Hi there! :wave:
 
-I'm Taiel, and im a software engineer student in FIUBA. I have approved 12/24 mandatory subjects.
+I'm Taiel, and I'm currently studying Software Engineering at FIUBA. I have approved 13/24 of mandatory subjects.
 
 Currently im taking the subjects of: 
 
 - Computer Organization.
 - Technology Based Companies.
-- IT project development management.
+- IT project's development management.
 
 Also im studying on my own:
 
@@ -19,5 +19,3 @@ Also im studying on my own:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taielmolina01)](https://github.com/Taielmolina01/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taielmolina01&layout=donut)](https://github.com/Taielmolina01/github-readme-stats)
-
-
