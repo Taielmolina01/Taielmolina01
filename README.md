@@ -1,17 +1,9 @@
-Hi there! :wave:
+Hi, I'm Taiel.
 
-I'm Taiel, and I'm currently studying Software Engineering at FIUBA. I have approved 13/24 of mandatory subjects.
+I'm a 24-year-old Software Engineering student at UBA, currently just three courses away from graduating.
 
-I'm looking forward to collaborating on open source projects, and have my first experiences working freelance.
+I work as a Full-Stack Developer at Alkemy. Alongside that, I'm also a Teaching Assistant for Algorithms and Data Structures at UBA — a role that keeps me sharp and constantly revisiting core fundamentals.
 
-Also im studying on my own:
+I enjoy working with core programming languages like C++ and Go, and I'm especially interested in specializing in distributed and scalable systems.
 
-- English.
-- FullStack development (React and a bit of languages for backend).
-- Machine Learning.
-
-![image](resources/fiubamap.png)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Taielmolina01)](https://github.com/Taielmolina01/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taielmolina01&layout=donut)](https://github.com/Taielmolina01/github-readme-stats)
+Right now, I'm exploring ideas for my final project/thesis so if you have something in mind or want to brainstorm, feel free to reach out!
