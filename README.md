@@ -1,6 +1,6 @@
 Hi, I'm Taiel 👋
 
-I'm a 24-year-old Software Engineering student at UBA, currently just three courses away from graduating.
+I'm a 25-year-old Software Engineering student at UBA, currently just three courses away from graduating.
 
 I work as a Full-Stack Developer at Alkemy, mainly using NestJS and React, with MongoDB and MariaDB as database engines. Alongside that, I'm also a Teaching Assistant for Algorithms and Data Structures at UBA — a role that keeps me sharp and constantly revisiting core fundamentals.
 
